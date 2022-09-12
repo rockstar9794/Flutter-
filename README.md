@@ -1,6 +1,6 @@
-# meals_app
+# meals_app Good For Practice
 
-A new Flutter project.
+Flutter project 
 
 ## Getting Started
 
