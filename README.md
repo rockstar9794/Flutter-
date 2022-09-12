@@ -5,7 +5,8 @@ Flutter project
 This project is a starting point for a Flutter application.
 
 There are dummy data which shows a product meals.
-We can see the some functionalies and Navigations to another screens, easy filering meals alse Favorite them!
+
+We can see the some functionalies and Navigations to another screens, easy filtering meals alse Favorite them!
 
 ## Getting Started
 
