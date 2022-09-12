@@ -6,6 +6,9 @@ Flutter project
 
 This project is a starting point for a Flutter application.
 
+There are dummy data which shows a product meals.
+We can see the some functionalies and Navigations to another screens, easy filering meals alse Favorite them!
+
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
