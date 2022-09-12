@@ -1,4 +1,4 @@
-# meals_app Good For Practice
+# Flutter meals_app Good For Practice
 
 Flutter project 
 
