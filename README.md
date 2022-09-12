@@ -8,6 +8,9 @@ There are dummy data which shows a product meals.
 
 We can see the some functionalies and Navigations to another screens, easy filtering meals alse Favorite them!
 
+![Screenshot_1655395336](https://user-images.githubusercontent.com/55742347/189656269-e66a8e00-92e1-4623-9df3-b2b19400cc67.png)
+
+
 ## Getting Started
 
 
